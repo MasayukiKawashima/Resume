@@ -18,6 +18,7 @@
 - Git、GitHubを用いたアプリのリソース管理経験
 - MVC、MVVMアーキテクチャに基づく開発経験
 - SwiftUI、UIKit、StoryBoard、XibでのUI構築経験
+- Github Actions、fastlaneを使用したCI/CDパイプラインの構築経験
 - 日本商工会議所簿記検定試験2級
 - 普通自動車第一種運転免許
 
@@ -29,7 +30,7 @@
 
 - App Storeページ : https://itunes.apple.com/jp/app/id6741679575?mt=8
 
-- 使用技術 : Swift 6.0.3, MVC, UIKit, SwiftUI, Realm, AdMob, Figma など
+- 使用技術 : Swift 6.0.3, MVC, UIKit, SwiftUI, Realm, AdMob, Github Actions, Figma など
 
 **2. いきなりメモ - ひらめきを逃さない、即メモiOSアプリ**
 
