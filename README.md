@@ -15,7 +15,7 @@
 ## ■ 経験・スキル、資格
 
 - Swiftを用いたiOSアプリの開発、リリース経験
-- Git、GitHubを用いたアプリのリソース管理経験
+- Git、GitHubを用いたアプリのバージョン管理経験
 - MVC、MVVMアーキテクチャに基づく開発経験
 - SwiftUI、UIKit、StoryBoard、XibでのUI構築経験
 - Github Actions、fastlaneを使用したCI/CDパイプラインの構築経験
