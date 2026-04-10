@@ -26,19 +26,19 @@
 
 **1. ジドスタ - 自撮りを活用するダイエット進捗管理iOSアプリ**
 
-- GitHubURL : https://github.com/MasayukiKawashima/Zidosuta
+- GitHub : https://github.com/MasayukiKawashima/Zidosuta
 
-- App Storeページ : https://itunes.apple.com/jp/app/id6741679575?mt=8
+- App Store : https://itunes.apple.com/jp/app/id6741679575?mt=8
 
-- 使用技術 : Swift 6.0.3, MVC, UIKit, SwiftUI, Realm, AdMob, Github Actions, Figma など
+- 使用技術 : Swift 6.3, MVC, UIKit, SwiftUI, Realm, AdMob, Github Actions, Figma など
 
 **2. いきなりメモ - ひらめきを逃さない、即メモiOSアプリ**
 
-- GitHubURL : https://github.com/MasayukiKawashima/IkinariMemo
+- GitHub : https://github.com/MasayukiKawashima/IkinariMemo
 
-- App Storeページ : https://itunes.apple.com/jp/app/6752865794?mt=8
+- App Store : https://itunes.apple.com/jp/app/6752865794?mt=8
 
-- 使用技術 : Swift 6.0.3, MVVM, Combine, SwiftUI, UIKit, Realm, AdMob, Figma など
+- 使用技術 : Swift 6.3, MVVM, Combine, SwiftUI, UIKit, Realm, AdMob, Figma など
 
 ## ■ なぜiOSアプリエンジニアになりたいのか
 
