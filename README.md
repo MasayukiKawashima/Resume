@@ -4,41 +4,33 @@
 | ------ | ------------------------------------ |
 | 名前     | 川島真之                             |
 | GitHub | https://github.com/MasayukiKawashima |
-
-<br>
+| 技術ブログ| https://qiita.com/poppinmasa |
 
 ## ■ 職務概要
 
 2018年に株式会社染創に入社。屋外広告物の営業や施工管理業務に従事し、特に屋外看板や広告幕といった大型の広告物を担当しました。その後、2020年に退社し実家家業（農業）に従事。柿やジャガイモなどの農作物の手入れ、収穫、出荷などの業務を行っています。 現在はiOSアプリエンジニアを目指し、日々学習に励んでいます。
 
 
-## ■ 経験・スキル、資格
+## ■ 経験・スキル・資格
 
 - Swiftを用いたiOSアプリの開発、リリース経験
 - Git、GitHubを用いたアプリのバージョン管理経験
 - MVC、MVVMアーキテクチャに基づく開発経験
 - SwiftUI、UIKit、StoryBoard、XibでのUI構築経験
 - Github Actions、fastlaneを使用したCI/CDパイプラインの構築経験
+- iOS26・Liquid Glass対応のための既存UIの調整経験
+- Swift6(Strict Concurrency Checking)対応のための既存ソースコードのリファクタリング経験
 - 日本商工会議所簿記検定試験2級
-- 普通自動車第一種運転免許
 
 ## ■ ポートフォリオ
 
 **1. ジドスタ - 自撮りを活用するダイエット進捗管理iOSアプリ**
-
 - GitHub : https://github.com/MasayukiKawashima/Zidosuta
-
 - App Store : https://itunes.apple.com/jp/app/id6741679575?mt=8
 
-- 使用技術 : Swift 6.3, MVC, UIKit, SwiftUI, Realm, AdMob, Github Actions, Figma など
-
 **2. いきなりメモ - ひらめきを逃さない、即メモiOSアプリ**
-
 - GitHub : https://github.com/MasayukiKawashima/IkinariMemo
-
 - App Store : https://itunes.apple.com/jp/app/6752865794?mt=8
-
-- 使用技術 : Swift 6.3, MVVM, Combine, SwiftUI, UIKit, Realm, AdMob, Figma など
 
 ## ■ なぜiOSアプリエンジニアになりたいのか
 
@@ -77,8 +69,6 @@
   **[実績]**
 
   耕作面積や管理果樹の本数の拡大に貢献。
-  <br>
-  <br>
 
 ### <ins>株式会社染創</ins>
 
@@ -90,14 +80,9 @@
 
   **[担当業務]**
 
-  企業向けの屋外広告物の営業として以下の業務を担当。
-
-  ⑴ 病院や診療所などを顧客としたリース広告看板事業においての企画及び施工管理業務。
-
-  ⑵ その他の企業や公的機関を顧客とした、懸垂幕や壁面看板といった屋外広告物の企画及び施工管理業務。
+  病院や診療所などを顧客とした広告看板事業においての企画及び施工管理業務。
 
   **[実績]**
 
-  ⑴の業務において事業の月商を約1.5倍にした。（退職時点。就任時の売上と比較。）
-  <br>
-  <br>
+  担当事業の月商を約1.5倍にした。（退職時点。就任時の売上と比較。）
+
